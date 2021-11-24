@@ -1,6 +1,6 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: '1595c2e6e8b345afa1e74b70633eb037',
+  rootNotionPageId: '113811afe5a54929beb6cefbe3290d0f',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: '云飞扬工作室',
-  domain: 'https://www.notion.so/Getting-Started-on-Mobile-1595c2e6e8b345afa1e74b70633eb037',
+  domain: 'https://www.notion.so/113811afe5a54929beb6cefbe3290d0f',
   author: 'YUKI',
 
   // open graph metadata (optional)
